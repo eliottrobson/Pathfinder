@@ -7,7 +7,7 @@ The static and dynamic analysis tool for reverse debugging
 We've all been there. Running our app and everything is working great. Until it isn't. There's a bug in our JavaScript, how can we fix it? The first step is to find out what we know.
 
 - The problem lies in the last 1000 lines of code we wrote, probably.
-- Turning it off and on again is unlike to fix it.
+- Turning it off and on again is unlikely to fix it.
 - We know where it breaks.
 
 Only the last point is useful.
